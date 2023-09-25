@@ -11,7 +11,7 @@ const Menu = () => (
     </p>
 
     <p>
-      <a href=" #wgpt3">What is GPT3</a>
+      <a href=" #whgpt3">What is GPT3</a>
     </p>
 
     <p>
