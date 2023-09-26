@@ -23,7 +23,7 @@ const Menu = () => (
     </p>
 
     <p>
-      <a href=" #blof">Library</a>
+      <a href=" #blog">Library</a>
     </p>
   </>
 );
